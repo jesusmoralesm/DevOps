@@ -1,2 +1,4 @@
 # DevOps
-DevOps Labs, Projects, Training
+* DevOps Labs, Projects, Training
+** Testing SSH Keys
+** Testing Git Pull / Git Push
